@@ -4,6 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
+Soy Máximo Fernández, un ingeniero electrónico entusiasta del data science
+
 This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
 
 
