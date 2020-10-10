@@ -1,10 +1,5 @@
 # Hola Mundo!
 
-Contenido:
-
-1. TOC
-{:toc}
-
 ## Me presento
 
 Me llamo Máximo Fernández Núñez, soy un ingeniero electrónico con alma de informático.
