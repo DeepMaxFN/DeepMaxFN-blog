@@ -1,3 +1,17 @@
+---
+title: "Hola Mundo"
+description: "Post de presentación del blog"
+layout: post
+toc: trur
+comments: true
+image: images/deepmaxfn_logo.png
+hide: false
+search_exclude: true
+categories: [deepmaxfn, hola, mundo]
+metadata_key1: metadata_value1
+metadata_key2: metadata_value2
+---
+
 # Hola Mundo!
 
 ## Me presento
