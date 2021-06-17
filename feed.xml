@@ -1,0 +1,45 @@
+<?xml version=»1.0″ encoding=»UTF-8″ ?>
+<rss version=»2.0″>
+
+	<channel>
+		
+		<title>El blog de DeepMaxFN</title>
+		<link>https://deepmaxfn.github.io/DeepMaxFN-blog/</link>
+		<description>Blog de artículos de inteligencia artificial y deep learning.</description>
+		<copyright>CC 4.0 – BY-SA<copyright>
+
+		<item>
+			<title>Manejo de datos con Pandas</title>
+			<link>https://deepmaxfn.github.io/DeepMaxFN-blog/deepmaxfn/python/pandas/2021/06/15/Manejo-de-datos-con-Pandas.html</link>
+			<description>ViVista de la librería para la manipulación y el análisis de datos.</description>
+			<author>DeepMaxFN</author>
+			<pubDate>Tue, 15 Jun 2021</pubDate>
+		</item>
+
+		<item>
+			<title>Cálculo matricial con Numpy</title>
+			<link>https://deepmaxfn.github.io/DeepMaxFN-blog/deepmaxfn/python/numpy/2021/04/23/Calculo-matricial-con-Numpy.html</link>
+			<description>Vista de la librería para cálculo matricial.</description>
+			<author>DeepMaxFN</author>
+			<pubDate>Fri, 23 Apr 2021</pubDate>
+		</item>
+
+		<item>
+			<title>Introducción a Python</title>
+			<link>https://deepmaxfn.github.io/DeepMaxFN-blog/deepmaxfn/python/2021/02/11/Introducción-a-Python.html</link>
+			<description>Una breve introducción al lenguaje de programación Python.</description>
+			<author>DeepMaxFN</author>
+			<pubDate>Thu, 11 Feb 2021</pubDate>
+		</item>
+
+		<item>
+			<title>Hola Mundo</title>
+			<link>https://deepmaxfn.github.io/DeepMaxFN-blog/deepmaxfn/hola/mundo/2020/10/03/Hola-mundo.html</link>
+			<description>Post de presentación del blog.</description>
+			<author>DeepMaxFN</author>
+			<pubDate>Sat, 03 Oct 2020</pubDate>
+		</item>
+
+	</channel>
+
+</rss>
